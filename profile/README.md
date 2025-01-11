@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tebuto.de"><img src="https://github.com/Terminbuchungstool/.github-private/assets/22749683/b90263f8-d2ff-4793-a6de-5276aa192862" alt="Tebuto"/></a>
+  <a href="https://tebuto.de"><img src="https://github.com/user-attachments/assets/48368201-de5c-41de-9a2b-65f21007603b" alt="Tebuto"/></a>
 </p>
 
 ---
