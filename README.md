@@ -1,1 +1,1 @@
-# Private Organization README for Tebuto
+# Organization README for Tebuto
